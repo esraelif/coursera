@@ -1,0 +1,9 @@
+[color]
+	ui = auto
+[user]
+	name = esraelif
+	email = elifesratunca@gmail.com
+[core]
+	editor = notepad
+[init]
+	defaultBranch = main
